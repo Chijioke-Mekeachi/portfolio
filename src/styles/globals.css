@@ -24,3 +24,19 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+.floating{
+  animation: float 3s ease-in-out infinite;
+}
+@keyframes levelating {
+  0%{transform:  translateY(0);}
+  50%{transform: translateY(-15px);}
+  100%{transform: translate3d();}
+}
+/* Hide scrollbar but allow scrolling */
+.hide-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+.hide-scrollbar::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}
