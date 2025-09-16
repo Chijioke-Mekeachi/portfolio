@@ -1,41 +1,86 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# Chijioke Mekelachi Portfolio
 
-## Getting Started
+Welcome to my personal portfolio repository! Here you'll find my projects, skills, and contact information. I am a passionate **Front-End, Full-Stack Developer, and Ethical Hacker** building modern, SEO-friendly applications with cutting-edge frameworks.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 👋 About Me
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Hi! I'm **Chijioke Mekelachi**, a Computer Science student and a self-driven developer. I specialize in creating modern web and mobile applications with a focus on performance, scalability, and user experience.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+- 🌱 I’m currently learning advanced **Full-Stack Development**.
+- 💻 I love working with **React, Next.js, Node.js, TailwindCSS, Supabase, and Python**.
+- 🛡️ Interested in **Ethical Hacking & Penetration Testing**.
+- 📫 Reach me: [mekelachichijioke@gmail.com](mailto:mekelachichijioke@gmail.com)
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+---
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+## 🛠️ Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Here are the main technologies I work with:
 
-## Learn More
+- **Frontend:** React, Next.js, TailwindCSS  
+- **Backend:** Node.js, Express.js, Supabase, MongoDB  
+- **Programming Languages:** JavaScript, TypeScript, Python, C++  
+- **Blockchain & Security:** Ethical Hacking, Penetration Testing  
+- **Other Tools:** Git, GitHub, Figma, Framer Motion
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+## 💼 Projects
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 1. Portfolio Website
+- Built with **React, TailwindCSS, and Framer Motion**.  
+- Features: Responsive design, animated sections, tech stack carousel, contact form, and theme toggler.
 
-## Deploy on Vercel
+### 2. Education App
+- **React Native** mobile app with course projects, assignments submission, and chat functionality.  
+- Backend powered by **Supabase**.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 3. Crypto Chart Website
+- Tracks crypto prices in real-time using **API integrations**.  
+- Includes interactive charts, wallets, and transaction tracking.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
-# portfolio
+### 4. Blurt Wallet Dashboard
+- Full React interface mimicking **native Blurt wallet**.  
+- Features balance monitoring, incoming transfer verification, and buy/sell requests.
+
+*(Add more projects as needed)*
+
+---
+
+## 🔥 Features in Portfolio
+
+- Dark & Light Mode with gradient themes  
+- Animated Tech Stack carousel  
+- Flip cards for skills/experience  
+- Smooth scrolling sections  
+- Fully responsive mobile-first design  
+- Integrated Contact Form  
+
+---
+
+## 📫 Contact Me
+
+You can reach me through:  
+
+- Email: [mekelachichijioke@gmail.com](mailto:mekelachichijioke@gmail.com)  
+- LinkedIn: [linkedin.com/in/mekelachichijioke](https://linkedin.com/in/mekelachichijioke)  
+- GitHub: [github.com/mekelachichijioke](https://github.com/mekelachichijioke)  
+
+---
+
+## ⚡ Fun Fact
+
+I combine my love for **development and cybersecurity** to build modern, secure, and responsive web & mobile applications.
+
+---
+
+## 📌 License
+
+This project is **MIT Licensed**. See the [LICENSE](LICENSE) file for more info.
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
