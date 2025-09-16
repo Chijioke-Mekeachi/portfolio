@@ -22,7 +22,7 @@ const Projects = () => {
             Title: "AquacionX",
             Years: 1,
             description: "Web3 Base webApplication Game, for minting Aquacoin",
-              link: "https://aquacionx-spin2win.vercel.app/"
+              link: "https://aquacoinx-spin2win.vercel.app/"
         },
         {
             Title: "Cogni",
