@@ -76,11 +76,6 @@ I combine my love for **development and cybersecurity** to build modern, secure,
 
 ---
 
-## 📌 License
-
-This project is **MIT Licensed**. See the [LICENSE](LICENSE) file for more info.
-
----
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
